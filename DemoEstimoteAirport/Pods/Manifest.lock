@@ -1,0 +1,16 @@
+PODS:
+  - EstimoteSDK (3.8.1)
+  - SnapKit (0.15.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - EstimoteSDK
+  - SnapKit (~> 0.15.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  EstimoteSDK: 34a31f7ad07bfeb58015f7decd01e1c20cbe8c45
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
